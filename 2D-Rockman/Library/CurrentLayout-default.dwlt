@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 35
+  controlID: 39
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 101
+  controlID: 105
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 107
+  controlID: 111
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -406,34 +406,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - "Assets/\u5834\u666F\u7D20\u6750"
+    - "Assets/\u6BAD\u5C4D"
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - "Assets/\u5834\u666F\u7D20\u6750"
+  - "Assets/\u6BAD\u5C4D"
   m_LastFoldersGridSize: 16
   m_LastProjectPath: E:\unity\unity-pretice\2D-Rockman
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d4380000
-    m_LastClickedID: 14548
-    m_ExpandedIDs: 00000000d238000000ca9a3b
+    m_SelectedIDs: 96390000
+    m_LastClickedID: 14742
+    m_ExpandedIDs: 000000008839000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Objects
-      m_OriginalName: Objects
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 14560
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_SearchString: 
@@ -447,7 +447,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d2380000d4380000
+    m_ExpandedIDs: 0000000088390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -633,7 +633,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 68.95822, y: 222.42085, z: -106.247635}
     speed: 2
-    m_Value: {x: 69.96767, y: 221.04874, z: -105.9871}
+    m_Value: {x: 68.95822, y: 222.42085, z: -106.247635}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -685,7 +685,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 60.498985
     speed: 2
-    m_Value: 57.893764
+    m_Value: 60.498985
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ccc3ffff
-      m_LastClickedID: -15412
-      m_ExpandedIDs: 44d1ffff48d6ffff54d6ffff1aefffff5efbffff
+      m_SelectedIDs: ec380000
+      m_LastClickedID: 14572
+      m_ExpandedIDs: 5efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
