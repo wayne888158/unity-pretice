@@ -46,5 +46,26 @@ public class car : MonoBehaviour
     public Color red = Color.red;
     public Color y = Color.yellow;
     //指定顏色的值為0-1
-    public Color 
+    public Color myColor = new Color(0.3f, 0, 0.5f);           //Color(紅,綠,藍)
+    public Color myColor2 = new Color(0, 0.5f, 0.5f, 0.5f);    //Color(紅,綠,藍)
+
+    // 座標二維-四維 Vecter2 Vector3 Vector4
+    public Vector2 v2;
+    public Vector2 v2zero = Vector2.zero;
+    public Vector2 v2one =Vector2.one;
+    public Vector2 v2my = new Vector2(7, 9);
+
+    public Vector3 v3 = new Vector3(1, 2, 3);
+    public Vector4 v4 = new Vector4(1, 2, 3, 4);
+
+    //按鍵 keyCode
+    public KeyCode key1;
+    public KeyCode key2 = KeyCode.A;
+    public KeyCode key3 = KeyCode.Mouse0;
+
+
+
+    
+
+
 }
